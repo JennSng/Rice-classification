@@ -1,7 +1,5 @@
 # ML_project_ricedata
 
-rice data = https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset 
+2023.01~2023.03 머신러닝 수업 수강하며 진행한 프로젝트입니다. 
 
-교환학생 생활 중 머신러닝 수업을 수강하며 쌀 데이터를 이용해 머신러닝을 진행했습니다.
-
-주어진 과제에 맞게 쌀 데이터분석을 진행하며 최종적으로 최적의 하이퍼파라미터를 찾기 위해 분석을 진행했습니다.
+https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset 해당 페이지와 동일한 데이터를 이용해 쌀 분류를 진행했습니다.
